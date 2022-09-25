@@ -5,12 +5,8 @@
     }
   },
   "routes": [
-    { "src": "/(.*)",  "dest": "/api/index.php" },
-    {
-      "src": "/",
-      "status": 301,
-      "headers": {"Location": "css/stylesheet.css"}
-    }
+    { "src": "/(.*)",  "dest": "/api/index.php" }
+    
   ]
 }
 
