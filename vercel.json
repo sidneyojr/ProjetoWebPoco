@@ -9,7 +9,7 @@
     {
       "src": "/",
       "status": 301,
-      "headers": {"Location": "/css/stylesheet.css"}
+      "headers": {"Location": "css/stylesheet.css"}
     }
   ]
 }
