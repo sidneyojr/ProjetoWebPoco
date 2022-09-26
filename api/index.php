@@ -14,12 +14,14 @@
     padding: 5px;
     background-color: #ccc;
     display: flex;
+    position: absolute;
+    bottom: 1%;
   }
   
   .progress-bar::before{
     content: "";
-    width: 50%;
-    background-color: red;
+    width: 1%;
+    background-color: blue;
   }
 
     </style>
