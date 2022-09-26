@@ -2,7 +2,7 @@
 <html lang="pt-br">
   <head>
     <title>Index.php</title>
-    <link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen"/>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen" />
     <meta charset="utf-8">
   </head>
   <body>
