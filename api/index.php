@@ -14,8 +14,6 @@
     padding: 5px;
     background-color: #ccc;
     display: flex;
-    position: absolute;
-    bottom: 1%;
   }
   
   .progress-bar::before{
