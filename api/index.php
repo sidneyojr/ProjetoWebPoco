@@ -7,6 +7,6 @@
   </head>
   <body>
     <h1>Estamos Trabalhando</h1><br>
-    <a href="./html/login.php">Vá para o Login</a>
+    <a href="/html/login.php">Vá para o Login</a>
   </body>
 </html>
