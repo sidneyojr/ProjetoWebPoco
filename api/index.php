@@ -7,10 +7,6 @@
   </head>
   <body>
     <h1>Estamos Trabalhando</h1><br>
-    <a href="/html/index.html">Vá para o Login</a>
-    <form method="GET" action="">
-    <label>Login:</label><input type="text" name="login" id="login"><br>
-    <label>Senha:</label><input type="password" name="senha" id="senha"><br>
-    <input type="submit" value="Cadastrar" id="cadastrar" name="cadastrar">
+   
   </body>
 </html>
