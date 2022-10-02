@@ -6,7 +6,7 @@
   },
   "routes": [
     { "src": "/(.*)",  "dest": "/api/index.php" },
-    { "src": "/(.*)",  "dest": "/html/login.html" }
+    { "src": "/(.*)",  "dest": "/html/index.html" }
     
   ]
 }
