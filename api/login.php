@@ -2,12 +2,12 @@
 <html lang="pt-br">
 
 <head>
-  <title>Login.html</title>
+  <title>Login</title>
 
   <meta charset="utf-8">
 </head>
 
-<body>git
+<body>
   <h1>Tela Login</h1><br>
   <form method="GET" action="">
     <label>Login:</label><input type="text" name="login" id="login"><br>
