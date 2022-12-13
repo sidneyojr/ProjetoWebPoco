@@ -6,7 +6,7 @@
     <meta charset="utf-8">
   </head>
   <body>
-    <h1>Estamos Trabalhando</h1><br>
+    <h1>Estamos agora Trabalhando</h1><br>
    <a href="login.php">Login</a>
   </body>
 </html>
